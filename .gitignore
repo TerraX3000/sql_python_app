@@ -1,0 +1,3 @@
+set_env
+sql_python_venv
+*.pem
